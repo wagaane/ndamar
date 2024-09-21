@@ -13,8 +13,8 @@ class _WelcomePageState extends State<WelcomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: LoadingAnimationWidget.bouncingBall(
-          color: Colors.red,
+        child: LoadingAnimationWidget.fourRotatingDots(
+          color: Colors.green,
           size: 200,
         ),
       ),

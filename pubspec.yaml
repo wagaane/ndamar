@@ -38,6 +38,8 @@ dependencies:
   google_fonts: ^6.2.1
   loading_animation_widget: ^1.2.1
   cached_network_image: ^3.4.1
+  auto_size_text: ^3.0.0
+  carousel_slider: ^5.0.0
 
 dev_dependencies:
   flutter_test:

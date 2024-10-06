@@ -1,0 +1,3 @@
+class ApiConfig{
+  var API = "";
+}
